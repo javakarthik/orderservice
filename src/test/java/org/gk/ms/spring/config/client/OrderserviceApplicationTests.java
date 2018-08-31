@@ -1,4 +1,4 @@
-package org.gk.ms.spring.config.client.orderservice;
+package org.gk.ms.spring.config.client;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
